@@ -1,3 +1,1 @@
-
-
-![Cambio de integrante 3 ]
+![Cambio de integrante 3.png]
