@@ -43,6 +43,8 @@ public class Top10Reorder {
             String inputFile = "top10.csv";
             String outputFile = "top10_descendente.csv";
 
+
+
             try{
                 List<String> lines = Files.readAllLines(Paths.get(inputFile));
 
@@ -75,7 +77,7 @@ public class Top10Reorder {
                 e.printStackTrace();
             }
         }
-        
+  
     }
 
 }
