@@ -38,7 +38,7 @@
       </VBox>
    </right>
    <top>
-      <Label text="Top 10 Canciones" BorderPane.alignment="CENTER">
+      <Label text="Top canciones" BorderPane.alignment="CENTER">
          <font>
             <Font name="System Bold" size="24.0" />
          </font>
